@@ -1,59 +1,69 @@
-•	Chapter 01: Get Started
-o	Features
-o	Install & Test
-o	Write your first Flutter app (Part 1)
-o	Learn More
-o	Write your first Flutter app (Part 2)
-•	Chapter 02: Dart Programming Language
-o	Variables
-o	Control flow statements
-o	Functions
-o	Comments
-o	Imports
-o	Classes
-o	Inheritance
-o	Mixins
-o	Async
-o	Exceptions
-•	Chapter 03: User interface
-o	Introduction to widgets
-o	Building layouts
-o	Splash screens
-o	Adding interactivity
-o	Assets and images
-•	Chapter 04: Data & backend
-o	State management
-o	Networking & http
-o	JSON and serialization
-o	Firebase
-•	Chapter 05: Accessibility & internationalization
-o	Accessibility
-o	Internationalization
-•	Chapter 06: Packages & plugins
-o	Using packages
-o	Developing packages & plugins
-o	Flutter Favorites program
-•	Chapter 07: Add Flutter to existing app
-o	Introduction
-o	Adding Flutter to Android
-o	Adding Flutter to iOS
-o	Running, debugging, and hot reload
-o	Load sequence, performance, and memory
-•	Chapter 08: Tools & techniques
-o	Android Studio & IntelliJ
-o	Visual Studio Code
-o	DevTools
-o	Hot reload
-•	Chapter 09: Testing & Performance
-o	Testing
-o	Performance best practices
-•	Chapter 10: Deployment
-o	Build and release an Android app
-o	Build and release an iOS app
-o	Build and release a web app
-o	Continuous deployment
-•	Chapter 11: Practice
-o	Examples
-o	Cookbook
-o	Web Demos
-o	Architecture
+## Chapter 01: Get Started
+- Features
+- Install & Test
+- Write your first Flutter app (Part 1)
+- Learn More
+- Write your first Flutter app (Part 2)
+
+## Chapter 02: Dart Programming Language
+- Variables
+- Control flow statements
+- Functions
+- Comments
+- Imports
+- Classes
+- Inheritance
+- Mixins
+- Async
+- Exceptions
+
+## Chapter 03: User interface
+- Introduction to widgets
+- Building layouts
+- Splash screens
+- Adding interactivity
+- Assets and images
+
+## Chapter 04: Data & backend
+- State management
+- Networking & http
+- JSON and serialization
+- Firebase
+
+## Chapter 05: Accessibility & internationalization
+- Accessibility
+- Internationalization
+
+## Chapter 06: Packages & plugins
+- Using packages
+- Developing packages & plugins
+- Flutter Favorites program
+
+## Chapter 07: Add Flutter to existing app
+- Introduction
+- Adding Flutter to Android
+- Adding Flutter to iOS
+- Running, debugging, and hot reload
+- Load sequence, performance, and memory
+
+## Chapter 08: Tools & techniques
+- Android Studio & IntelliJ
+- Visual Studio Code
+- DevTools
+- Hot reload
+
+## Chapter 09: Testing & Performance
+- Testing
+- Performance best practices
+
+## Chapter 10: Deployment
+- Build and release an Android app
+- Build and release an iOS app
+- Build and release a web app
+- Continuous deployment
+
+## Chapter 11: Practice
+- Examples
+- Cookbook
+- Web Demos
+- Architecture
