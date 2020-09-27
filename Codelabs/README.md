@@ -2,7 +2,8 @@
 If you’re new to Flutter, we recommend starting with one of these codelabs:
 
 ## 1. [Write your first Flutter app, part 1](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/) <br/>
-![part1](assets/images/cl1.gif)
+![part1-android](assets/images/cl1-1.png)
+![part1-ios](assets/images/cl1-2.png)
 - Create a simple mobile app that generates proposed names for a startup company. 
 - In part one, you’ll use a package that returns pairs of words at random and inserts them into an infinite scrolling list.
 
