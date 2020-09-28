@@ -41,6 +41,7 @@ Learn about Material Design and basic Flutter concepts, like layout and animatio
 
 ## 3. [Building Beautiful Transitions with Material Motion for Flutter](https://codelabs.developers.google.com/codelabs/material-motion-flutter/)
 ![flutter-ui](assets/images/UI3-1.jpg)
+![flutter-ui](assets/images/UI3-2.jpg)
 - Learn how to use the Material animations package to add pre-built transitions to a Material app called Reply.
 
 ## 5. [MDC 101 Flutter: Material Components (MDC) Basics](https://codelabs.developers.google.com/codelabs/mdc-101-flutter/)
