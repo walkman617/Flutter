@@ -31,7 +31,7 @@ If you’re new to Flutter, we recommend starting with one of these codelabs:
 Learn about Material Design and basic Flutter concepts, like layout and animations:
 
 ## 1. [Basic Flutter layout concepts](https://flutter.dev/docs/codelabs/layout-basics)
-
+![flutter-ui](assets/images/UI1-1.png)
 - Use DartPad in a browser (no downloads required!) to learn the basics of creating a Flutter layout.
 
 ## 2. [How to debug layout issues with the Flutter Inspector](https://medium.com/flutter/how-to-debug-layout-issues-with-the-flutter-inspector-87460a7b9db)
