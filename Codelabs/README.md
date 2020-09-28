@@ -21,6 +21,8 @@ If you’re new to Flutter, we recommend starting with one of these codelabs:
 - This codelab is written specifically for the web, but if you have downloaded and configured Android and iOS tooling, the completed app works on Android and iOS devices, as well.
 
 ## 4. [Building beautiful UIs with Flutter](https://codelabs.developers.google.com/codelabs/flutter/)
+![part4-android](assets/images/cl4-1.png)
+![part4-ios](assets/images/cl4-2.png)
 - A deeper “first dive” than “Write your first Flutter app.” 
 - Create a chat app that includes a simple animation, and customizes the UI for iOS and Android. 
 - As part of this codelab, learn how to use keyboard shortcuts in Android Studio.
