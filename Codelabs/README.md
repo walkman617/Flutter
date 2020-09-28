@@ -15,6 +15,7 @@ If you’re new to Flutter, we recommend starting with one of these codelabs:
 - Finally, you’ll change the app’s theme color.
 
 ## 3. [Write your first Flutter app on the web](https://flutter.dev/docs/get-started/codelab-web)
+![flutter-onWeb](assets/images/cl3-1.jpg)
 - Implement a simple web app in DartPad (no downloads required!) that displays a sign-in screen containing three text fields. 
 - As the user fills out the fields, a progress bar animates along the top of the sign-in area. 
 - This codelab is written specifically for the web, but if you have downloaded and configured Android and iOS tooling, the completed app works on Android and iOS devices, as well.
