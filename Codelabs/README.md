@@ -34,10 +34,9 @@ Learn about Material Design and basic Flutter concepts, like layout and animatio
 ![flutter-ui](assets/images/UI1-1.png)
 - Use DartPad in a browser (no downloads required!) to learn the basics of creating a Flutter layout.
 
-## 2. [How to debug layout issues with the Flutter Inspector](https://medium.com/flutter/how-to-debug-layout-issues-with-the-flutter-inspector-87460a7b9db)
-- Not an official codelab, but step-by-step instructions on how to debug common layout problems using the Flutter Inspector and Layout Explorer.
-
-## 3. [Implicit animations](https://flutter.dev/docs/codelabs/implicit-animations)
+## 2. [Implicit animations](https://flutter.dev/docs/codelabs/implicit-animations)
+![flutter-ui](assets/images/UI2-1.jpg)
+![flutter-ui](assets/images/UI2-2.jpg)
 - Use DartPad (no downloads required!) to learn how to use implicit animations to add motion and create visual effects for the widgets in your UI.
 
 ## 4. [Building Beautiful Transitions with Material Motion for Flutter](https://codelabs.developers.google.com/codelabs/material-motion-flutter/)
