@@ -44,23 +44,6 @@ Learn about Material Design and basic Flutter concepts, like layout and animatio
 ![flutter-ui](assets/images/UI3-2.jpg)
 - Learn how to use the Material animations package to add pre-built transitions to a Material app called Reply.
 
-## 5. [MDC 101 Flutter: Material Components (MDC) Basics](https://codelabs.developers.google.com/codelabs/mdc-101-flutter/)
-- Learn the basics of using Material Components by building a simple app with core components. 
-- The four MDC codelabs guide you through building an e-commerce app called Shrine. 
-- You’ll start by building a login page using several of MDC Flutter’s components.
-
-## 6. [MDC 102 Flutter: Material Structure and Layout](https://codelabs.developers.google.com/codelabs/mdc-102-flutter/)
-- Learn how to use Material for structure and layout in Flutter. 
-- Continue building the e-commerce app, introduced in MDC-101, by adding navigation, structure, and data.
-
-## 7. [MDC 103 Flutter: Material Theming with Color, Shape, Elevation, and Type](https://codelabs.developers.google.com/codelabs/mdc-103-flutter/)
-- Discover how Material Components for Flutter make it easy to differentiate your product, and express your brand through design. 
-- Continue building your e-commerce app by adding a home screen that displays products.
-
-## 8. [MDC 104 Flutter: Material Advanced Components](https://codelabs.developers.google.com/codelabs/mdc-104-flutter/)
-- Improve your design and learn to use our advanced component backdrop menu. 
-- Finish your e-commerce app by adding a backdrop with a menu that filters products by the selected category.
-
 
 # Using Flutter with …
 Learn how to use Flutter with other technologies.
