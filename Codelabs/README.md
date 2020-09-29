@@ -43,23 +43,3 @@ Learn about Material Design and basic Flutter concepts, like layout and animatio
 ![flutter-ui](assets/images/UI3-1.jpg)
 ![flutter-ui](assets/images/UI3-2.jpg)
 - Learn how to use the Material animations package to add pre-built transitions to a Material app called Reply.
-
-
-# Using Flutter with …
-Learn how to use Flutter with other technologies.
-
-## 1. [Adding Google Maps to a Flutter app](https://codelabs.developers.google.com/codelabs/google-maps-in-flutter/)
-- Display a Google map in an app, retrieve data from a web service, and display the data as markers on the map.
-
-## 2. [Build a photo sharing app with Google Photos and Flutter](https://codelabs.developers.google.com/codelabs/google-photos-sharing/)
-- Build a field trip app that allows you and other members of the trip to share photos.
-
-## 3. [Adding AdMob Ads to a Flutter app](https://codelabs.developers.google.com/codelabs/admob-ads-in-flutter/)
-- Learn how to add an AdMob banner, an interstitial ad, and a rewarded ad to an app called Awesome Drawing Quiz, a game that lets players guess the name of the drawing.
-
-## 4. [Firebase for Flutter](https://codelabs.developers.google.com/codelabs/flutter-firebase/)
-- Connect a Flutter app to a Firebase database, and use a transaction to update shared information.
-
-## 5. [Multi-platform Firestore Flutter](https://codelabs.developers.google.com/codelabs/friendlyeats-flutter/)
-- Build a multi-platform restaurant recommendation app powered by Flutter and Cloud Firestore. 
-- The finished app runs on Android, iOS, and web, from a single Dart codebase.
