@@ -63,7 +63,7 @@
 - Continuous deployment
 
 ## Chapter 11: Practice (6 hours)
-- Examples
+- Samples
 - Cookbook
 - Web Demos
 - Architecture

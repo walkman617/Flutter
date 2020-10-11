@@ -23,5 +23,3 @@ Answer: Dart has both expressions (which have runtime values) and statements (wh
 
 ## 8. What are the warnings and errors showed in Dart tools?
 Answer: Dart tools can report two kinds of problems: warnings and errors. Warnings are just indications that your code might not work, but they don’t prevent your program from executing. Errors can be either compile-time or run-time. A compile-time error prevents the code from executing at all; a run-time error results in an exception being raised while the code executes. 
-
-
