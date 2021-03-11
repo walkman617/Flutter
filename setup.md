@@ -1,10 +1,13 @@
 # Set up an editor
 Follow the steps below to add an editor plugin for [Android Studio](https://flutter.dev/docs/get-started/editor?tab=androidstudio), [IntelliJ](https://flutter.dev/docs/get-started/editor?tab=androidstudio), [VS Code](https://flutter.dev/docs/get-started/editor?tab=vscode), or [Emacs](https://flutter.dev/docs/get-started/editor?tab=emacs).
+
 ##  Android Studio and IntelliJ
+
 ### 1. Install the IDE
 - [Android Studio](https://developer.android.com/studio), version 3.0 or later
 - [IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/), version 2017.1 or later
 - [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/download/), version 2017.1 or later
+
 ### 2. Install the Flutter and Dart plugins
 - Start Android Studio.
 - Open plugin preferences (<strong>Configure > Plugins</strong> as of v3.6.3.0 or later).
@@ -29,6 +32,7 @@ The above commands create a Flutter project directory called myapp that contains
 
 
 ## VS Code
+
 ### 1. Install VS Code
 [VS Code](https://code.visualstudio.com/)  is a lightweight editor with Flutter app execution and debug support.
 
