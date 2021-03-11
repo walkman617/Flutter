@@ -1,3 +1,6 @@
+## See: https://flutter.dev/
+Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+
 ## Chapter 01: Get Started (6 hours)
 - Features
 - Install & Test
