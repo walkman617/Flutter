@@ -1,4 +1,4 @@
-# Codelabs: Good for beginners
+# Good for beginners
 If you’re new to Flutter, we recommend starting with one of these codelabs:
 
 ## 1. [Write your first Flutter app, part 1](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/) <br/>
